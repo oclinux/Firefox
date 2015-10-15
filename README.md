@@ -1,2 +1,2 @@
 # Firefox
-Firefox Web Browser
+Firefox Web Browser repository
